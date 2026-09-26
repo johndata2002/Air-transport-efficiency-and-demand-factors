@@ -20,10 +20,7 @@ The analysis is based on panel data compiled from **Eurostat** and official airp
 * **Environmental Variables:** Regional GDP, population density, low-cost carrier (LCC) presence.
 
 ##  Key Findings
-* Average technical efficiency across analyzed airports reached high operational levels over the decade.
-* Infrastructure utilization and LCC market share showed a statistically significant positive effect on overall efficiency scores.
-* Detailed results, figures, and econometric output tables are available in the project documentation.
-
+This study evaluates the operational efficiency and passenger demand determinants across 51 European airports from 2014 to 2024 using a two-stage empirical framework. In the first stage, Data Envelopment Analysis (DEA) is applied to calculate technical efficiency scores under both Constant Returns to Scale (CRS) and Variable Returns to Scale (VRS), revealing substantial potential for capacity optimization and highlighting that large international hubs consistently outperform regional facilities. In the second stage, a Random Effects Panel Tobit regression model identifies key macroeconomic and operational drivers, demonstrating that GDP per capita, regional population density, and rail connectivity exert a statistically significant positive effect on airport efficiency scores.
 ##  Repository Structure
 ##  Author
 **Ioannis Andronidis**
